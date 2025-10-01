@@ -1,0 +1,31 @@
+# OS/Editor
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+
+# Node (if ever used for tooling)
+node_modules/
+
+# Composer (if added later)
+vendor/
+composer.lock
+
+# Environment / credentials
+.env
+*.env.local
+
+# Cache / temp
+tmp/
+cache/
+*.tmp
+
+# XAMPP/MAMP specific
+htdocs/*/logs/
+apache/logs/
+logs/
+
+# Build artifacts
+dist/
+build/

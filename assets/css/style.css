@@ -1,0 +1,33 @@
+body {
+  background-color: #0b1620;
+  color: #dbe6f2;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+.card {
+  background-color: #122236;
+  border: 1px solid #1e3350;
+}
+
+.form-control, .btn {
+  border-radius: 0.5rem;
+}
+
+.btn-primary {
+  background-color: #3b82f6;
+  border-color: #3b82f6;
+}
+
+.btn-primary:hover {
+  background-color: #2563eb;
+  border-color: #2563eb;
+}
+
+.alert {
+  border-radius: 0.5rem;
+}
+
+
